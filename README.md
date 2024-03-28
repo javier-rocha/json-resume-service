@@ -158,6 +158,7 @@ cd resume-service
 6. Run locally with the project locally
 
 ```bash
+yarn add json-schema-to-typescript
 yarn dev or npm run dev
 ```
 
