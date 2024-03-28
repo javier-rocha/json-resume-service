@@ -146,7 +146,7 @@ You'll want to fork this repository and deploy your own resume generator service
 2. Clone your forked repository
 
 ```bash
-git clone URL_OF_FORKED_REPO_HERE
+git clone https://github.com/javier-rocha/json-resume-service.git
 ```
 
 3. Change directory to your local copy of the forked repository
